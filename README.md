@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deep Vasoya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> </p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deepvasoya114" target="blank"><img src="https://img.shields.io/twitter/follow/deepvasoya114?logo=twitter&style=for-the-badge" alt="deepvasoya114" /></a> </p>
 
