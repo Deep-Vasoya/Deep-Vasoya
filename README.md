@@ -1,4 +1,4 @@
-[![MasterHead](https://data.whicdn.com/images/213329992/original.gif)]
+![MasterHead](https://data.whicdn.com/images/213329992/original.gif)
 <h1 align="center">Hi 👋, I'm Deep Vasoya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
