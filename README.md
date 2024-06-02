@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-vasoya&label=Profile%20views&color=0e75b6&style=flat" alt="deep-vasoya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deepvasoya114" target="blank"><img src="https://img.shields.io/twitter/follow/deepvasoya114?logo=twitter&style=for-the-badge" alt="deepvasoya114" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **deepvasoya87@gmail.com**
